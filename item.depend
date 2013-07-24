@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1374133969 source:f:\my\item\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"graph.h"
+	"orders.h"
+	<ctime>
+	"data.h"
+	<windows.h>
+
+1374129982 f:\my\item\graph.h
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	"data.h"
+
+1374129028 f:\my\item\orders.h
+	<ctime>
+	<conio.h>
+	"graph.h"
+	<algorithm>
+
+1374123031 f:\my\item\data.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	"graph.h"
+
